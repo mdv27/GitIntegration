@@ -10,6 +10,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int i = scanner.nextInt();
         int i1 = scanner.nextInt();
-        System.out.println(i + i1);
+        System.out.println("And the sum of given numbers is" + i + i1);
     }
 }
